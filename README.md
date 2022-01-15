@@ -9,4 +9,4 @@ Step 2:
 Step 3:
   Email addresses are now copied back to your clipboard that you can paste anywhere.
   
-Note: A very simple regular expression is used and does not guarantee the validity of the mail and is not 100% accurate :)
+Note: A very simple regular expression is used to match email strings and this does not guarantee the credibility of the mail and is not 100% accurate :)
